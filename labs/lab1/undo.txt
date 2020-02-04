@@ -1,0 +1,2 @@
+a series of commands that would be used to delete this file and all the
+directories you created
